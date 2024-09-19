@@ -1,4 +1,4 @@
-# Applications and Practice in Neural Networks
+# Applications and Practice in Neural Networks (2024-2)
 
 ## I. Project title
 ### ⚽Premier League Matches Prediction Modeling
@@ -7,15 +7,25 @@
 ## II. Project introduction
 
 ### 📌Objective
-- 경기 정보를 활용한 승부 예측
-    - 추후 팀 및 경기별 전략 수립에 도움이 될 수 있음
+- Predicting wins with match information
+    - Developing a model to predict the outcome of each match based on Premier League match data
+        - Predicting the outcome of a match or score difference
+        - Identify key variables that affect a match or team's performance
+- Leverage for strategy
+    - Create a betting strategy and analyze your returns
+    - Enables strategy in Fantasy (Premier) League
+    - Can be used in real-world match strategy
 
 ### 💡Motivation
-
+- Increase the commercial value of accurate match prediction
+    - Maximize your betting returns
+- Sports games like Fantasy League
+    - The growing importance of using real-world game data to make decisions
+- Contribute to the evolution of sports analytics by leveraging real-world game data
 
 ---
 ## III. Dataset description
-**1. Feature description**
+### 📂Feature description
 - date : the date of the game
 - time : the time of the game
 - comp : the competition of the game
@@ -39,8 +49,10 @@
 - pka : the penalty kicks attempted of the home team
 - season : the season year of the match
 - team: the home team
+- result : the result of the game (*🎯target*)
 
-**2. Target data**
-- result : the result of the game
+### 📎Details
+- Data with pre-match information about the match, progress, results, and more.
+    - This allows for predictability of future matches, not just wins, but a range of outcomes.
 
 ---
