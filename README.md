@@ -25,7 +25,7 @@
 
 ---
 ## III. Dataset description
-*Raw Data: Dataset of Premier League Matches from season 2020 to 2024*
+*Raw Data: Dataset of Premier League Matches from season 2020 to 2024*\
 *Source: https://www.kaggle.com/datasets/mhmdkardosha/premier-league-matches/data*
 
 
