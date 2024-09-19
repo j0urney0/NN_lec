@@ -1,4 +1,9 @@
-# Premier League Matches Prediction Modeling
+# Applications and Practice in Neural Networks
+
+## I. Project title
+### ⚽Premier League Matches Prediction Modeling
+
+## II. Project introduction
 
 ### 📌Objective
 - 경기 정보를 활용한 승부 예측
@@ -6,11 +11,4 @@
 
 ### 💡Motivation
 
-
----
-### 📂Dataset
-**Training**
-
-**Validation**
-
-**Test**
+## III. Dataset description
