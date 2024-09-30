@@ -58,6 +58,3 @@
 ### 📎Details
 - Data with pre-match information about the match, progress, results, and more.
     - This allows for predictability of future matches, not just wins, but a range of outcomes.
-
----
-*baseline code source: https://www.kaggle.com/code/mhmdkardosha/premier-league-matches-manipulation-and-modeling#Neural-Network-model/*
