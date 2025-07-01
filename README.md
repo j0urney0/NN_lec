@@ -1,4 +1,4 @@
-# Applications and Practice in Neural Networks (2024-2)
+# [2024-2] Applications and Practice in Neural Networks
 
 ## I. Project title
 ### ⚽Premier League Matches Prediction Modeling
